@@ -1,0 +1,39 @@
+;; Emacs-W3 HTTP cookies file
+;; Automatically generated file!!! DO NOT EDIT!!!
+
+(setq url-cookie-storage
+ '((".google.com"
+  [url-cookie "SID" "DQAAAB4BAADMczbzyh8yZVy8aR-afPE8cQRm059Ske54ggDcwlJ_JkpmjmPNn_w7xatVaiv732Ok0AQ4fYNWkyh_uynrPLoWfu5d_lQkh1IwyUrBO9kuXXyzH4xYXTw5baL_0-qXywKuLKQ0bjR0Ou_xFR-KBwjgWKAmcMzl5sdHYHbgzeIGt4YYA0Hc6n1IZ4iDZ-Vih4HzslEUuQ9MglWO_h6e8nyN2IuPePiH_hf3bQXdB41cut7lgkxRYJiEztblqS_eTJwMFGRT9QP67WxmJmH-lnECeziyXmWGQJ0f343lkymZwGHC3ka7H3EbcisDGjpN_YpKfddDEGoh-teYry60wuqlQ7Syscf4hbvRMIwUQdQw2dpEp3AAUJqVx1fXh7Ms3g8" "06-Sep-2017 09:31:33.00 GMT" "/" ".google.com" nil]
+  [url-cookie "HSID" "As3ZmFd73BE8DHDuW" "06-Sep-2017 09:31:33.00 GMT" "/" ".google.com" nil]
+  [url-cookie "APISID" "tTikFOtguzl3CJrl/Aaqja3NDjfsDVd3NY" "06-Sep-2017 09:31:33.00 GMT" "/" ".google.com" nil]
+  [url-cookie "NID" "84=j0atRF76KbF3drLxfA9uyz34swns8DE2BF1owhWTt2u8XLtH8S_Pz2QB6v3mR260wr87brl5RI378uGR4A2uFOSrrDQJar-a3AsEMZUbNhrINQH-BAsi-Swi4GAN290q" "09-Feb-2017 02:22:36.00 GMT" "/" ".google.com" nil]
+  [url-cookie "HttpOnly" nil "09-Feb-2017 02:22:36.00 GMT" "/" ".google.com" nil])
+ (".stackoverflow.com"
+  [url-cookie "HttpOnly" nil "01-Jan-2055 00:00:00.00 GMT" "/" ".stackoverflow.com" nil]
+  [url-cookie "prov" "d9260a43-deeb-374b-add8-b0fb93cb25c9" "01-Jan-2055 00:00:00.00 GMT" "/" ".stackoverflow.com" nil])
+ (".facebook.com"
+  [url-cookie "fr" "0UNjQUaQ9YfkHafp7..BX6lGo.Qx.AAA.0.0.BX6lGp.AWVbpZZc" "26-Dec-2016 11:02:01.00 GMT" "/" ".facebook.com" nil]
+  [url-cookie "Max-Age" "7776000" "26-Dec-2016 11:02:01.00 GMT" "/" ".facebook.com" nil]
+  [url-cookie "httponly" nil "26-Dec-2016 11:02:01.00 GMT" "/" ".facebook.com" nil])
+ (".google.com.vn"
+  [url-cookie "HttpOnly" nil "11-Jan-2017 06:49:59.00 GMT" "/" ".google.com.vn" nil]
+  [url-cookie "NID" "81=tUh53sORnXbqpYqvcyU-zFXFJvCJK8Fy64gRB4ZMyUsFWCSsM5C_eRKmS6WbNh5OawYDhkNrTYdSYBkWtwYkGTIb2nLovF4lF2BY86mlGwcwT9m59BBrYkq0UCiRXuAv" "11-Jan-2017 06:49:59.00 GMT" "/" ".google.com.vn" nil]))
+)
+(setq url-cookie-secure-storage
+ '((".google.com"
+  [url-cookie "SSID" "AWUfQI9uhX61oT4P9" "06-Sep-2017 09:31:33.00 GMT" "/" ".google.com" t]
+  [url-cookie "HttpOnly" nil "06-Sep-2017 09:31:33.00 GMT" "/" ".google.com" t]
+  [url-cookie "Priority" "HIGH" "06-Sep-2017 09:31:33.00 GMT" "/" ".google.com" t]
+  [url-cookie "SAPISID" "tCjJ_49OG8gJZgkm/AU4JI8n0UNev6EbQo" "06-Sep-2017 09:31:33.00 GMT" "/" ".google.com" t])
+ ("accounts.google.com"
+  [url-cookie "GAPS" "1:joI2a7MGcVjfW8qg1TdOOS7iYdGnfQ:haNGs9zdEgXUnV2w" "06-Sep-2017 09:31:33.00 GMT" "/" "accounts.google.com" t]
+  [url-cookie "HttpOnly" nil "06-Sep-2017 09:31:33.00 GMT" "/" "accounts.google.com" t]
+  [url-cookie "Priority" "HIGH" "06-Sep-2017 09:31:33.00 GMT" "/" "accounts.google.com" t]
+  [url-cookie "LSID" "mail|o.mail.google.com|s.VN:DQAAACABAADP29vOAhNc2GRBeuNUVE4tl_l39qpb0oOrZHZrSm1_q7Gtl1ECe1NtqwjIRT3jD1lJMnWDObGWAI9RfAm8eERZcaRhl1n3EOaAxcJNBDlhBx-KLn3dyIBZl-AEEuPEvRGtBPHhvERarFdR1QKSYA-CPmu7CyyyKVdfzXToxGR8qMzms0jEiInUS7glXkJsj5XuiXXpNX_Iki-s1BjqV4qXkNAlCCd2X8hP73IThUuQkXfzV536ytxKKCtuwAOs6XT1PPkyE98aezHJzs6tuaVBTV9CZLTaKPYHgjkwWQFyl85G0a0waOe5Kzto0U4PFsbPu5jQ8G6CoIKq7tQHsGPf8HCyBnVZftJQ3DO7dNWHL3ja03ib_vxfeuvbxgy8ITE" "06-Sep-2017 09:31:33.00 GMT" "/" "accounts.google.com" t]
+  [url-cookie "ACCOUNT_CHOOSER" "AFx_qI6Uw_lr5_pfsq4czLHjxtFaX3UuvxNMDdb-scN-G38n0p2W5eFrfsMLrGEJ4jbqCmt87L1RvysfCy3jRoNwJVhamx7_5Y_EbjVRhTJ-APksuD3YLpXc911FHkVmNpOhF6O08Jyk" "06-Sep-2017 09:31:29.00 GMT" "/" "accounts.google.com" t]))
+)
+
+;; Local Variables:
+;; version-control: never
+;; no-byte-compile: t
+;; End:
