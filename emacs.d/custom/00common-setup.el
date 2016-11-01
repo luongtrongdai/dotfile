@@ -274,3 +274,9 @@
 (defun bh/switch-to-todo ()
   (interactive)
   (switch-to-buffer "todo.org"))
+
+
+(require 'egg)
+(global-set-key (kbd "C-x ga") 'egg-stage-all-files)
+(global-set-key (kbd "C-x gs") 'egg-status)
+(global-set-key (kbd "C-x gc") 'egg-commit-log-edit)
