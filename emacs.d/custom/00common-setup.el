@@ -280,3 +280,30 @@
 (global-set-key (kbd "C-x ga") 'egg-stage-all-files)
 (global-set-key (kbd "C-x gs") 'egg-status)
 (global-set-key (kbd "C-x gc") 'egg-commit-log-edit)
+
+
+(global-set-key (kbd "M-<up>") 'move-line-up)
+(global-set-key (kbd "M-<down>") 'move-line-down)
+
+
+
+
+(defun move-line-up ()
+  (interactive)
+  (transpose-lines 1)
+  (forward-line -2))
+
+(defun move-line-down ()
+  (interactive)
+  (forward-line 1)
+  (transpose-lines 1)
+  (forward-line -1))
+
+
+(define-key global-map [(S-f1)] 'insert-doc-comment)
+(defun insert-doc-comment ()
+  (interactive)
+  (insert "/**\n * .\n * @param \n * @return \n */")
+  (forward-line -3)
+  (move-end-of-line nil)
+  (backward-char))
